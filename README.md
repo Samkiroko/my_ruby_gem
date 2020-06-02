@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SamkirokoViewTool::Renderer.copyright 'Samuel Kiroko N', 'All rights reserved'
+```
 
 ## Development
 

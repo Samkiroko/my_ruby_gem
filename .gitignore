@@ -9,8 +9,5 @@
 
 # rspec failure tracking
 .rspec_status
-<<<<<<< HEAD
 *.gem
 .history
-=======
->>>>>>> df847e17ae57713f1360bdaf4d3a8e728bb10338
