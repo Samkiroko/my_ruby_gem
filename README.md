@@ -18,7 +18,7 @@ Or install it yourself as:
 
     $ gem install Samkiroko_view_tool
 
-## Usage
+## Usage of gem
 
 ```ruby
 SamkirokoViewTool::Renderer.copyright 'Samuel Kiroko N', 'All rights reserved'
